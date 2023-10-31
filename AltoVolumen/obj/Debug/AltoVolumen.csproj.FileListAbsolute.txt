@@ -1,0 +1,13 @@
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\bin\Debug\AltoVolumen.exe.config
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\bin\Debug\AltoVolumen.exe
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\bin\Debug\AltoVolumen.pdb
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.csproj.AssemblyReference.cache
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.Form1.resources
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.Properties.Resources.resources
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.csproj.GenerateResource.cache
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.csproj.CoreCompileInputs.cache
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.exe
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.pdb
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.RegUsuForm.resources
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.GestClientes.resources
+C:\Users\abrah\source\repos\AltoVolumen\AltoVolumen\obj\Debug\AltoVolumen.RegHoteles.resources
